@@ -31,4 +31,11 @@
 .home {
     padding: 20px 40px;
     font-size: 30px;
+    margin: 20px;
+    color: black;
+    display: block;
+    width: 170px;
+    text-align: center;
+    border-width: 3px;
+    text-decoration: none;
 }
