@@ -6,8 +6,7 @@
 }
 
 .title,
-.recipe,
-.subtitle {
+.recipe {
     margin: 70px auto;
 }
 
@@ -58,8 +57,10 @@
 }
 
 .subtitle {
-    text-align: center;
     font-size: 50px;
 }
 
-
+.section {
+    text-align: center;
+    border-top: 2px solid black;
+}
