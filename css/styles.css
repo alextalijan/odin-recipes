@@ -67,3 +67,13 @@
     padding: 50px;
     margin: 0px 300px;
 }
+
+.section p,
+.section li {
+    font-size: 20px;
+    padding: 5px;
+}
+
+.section li {
+    text-align: left;
+}
