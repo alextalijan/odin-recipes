@@ -5,9 +5,14 @@
     padding: 0px;
 }
 
+.title,
+.recipe,
+.subtitle {
+    margin: 70px auto;
+}
+
 .title {
     text-align: center;
-    margin: 50px auto;
     font-size: 100px;
     border: 10px dotted darkcyan;
     width: 900px;
@@ -43,7 +48,6 @@
 .recipe {
     text-align: center;
     font-size: 70px;
-    margin: 50px auto;
 }
 
 .food-img {
@@ -56,5 +60,4 @@
 .subtitle {
     text-align: center;
     font-size: 50px;
-    margin: 50px auto;
 }
